@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/samhinshaw/scramble-squares-solver/issues"
   },
-  "homepage": "https://github.com/samhinshaw/scramble-squares-solver#readme"
+  "homepage": "https://github.com/samhinshaw/scramble-squares-solver#readme",
+  "devDependencies": {
+    "ts-node": "^8.10.2",
+    "typescript": "^3.9.7"
+  }
 }
