@@ -1,0 +1,19 @@
+{
+  "name": "scramble-squares-solver",
+  "version": "1.0.0",
+  "description": "CLI for solving Scramble Squares puzzles",
+  "main": "main.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samhinshaw/scramble-squares-solver.git"
+  },
+  "author": "Sam Hinshaw",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/samhinshaw/scramble-squares-solver/issues"
+  },
+  "homepage": "https://github.com/samhinshaw/scramble-squares-solver#readme"
+}
